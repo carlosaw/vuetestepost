@@ -18,4 +18,7 @@ export default {
 	span {
 		color: #0000FF;
 	}
+	body {
+		font-family:arial;
+	}
 </style>
